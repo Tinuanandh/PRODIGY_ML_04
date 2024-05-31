@@ -1,3 +1,5 @@
+## Hand gesture recognition 
+
 ## Description
 Our project aims to develop a sophisticated hand gesture recognition model utilizing Convolutional Neural Networks (CNN) to accurately identify and classify various hand gestures from image or video data. The primary objective is to enable intuitive human-computer interaction and facilitate gesture-based control systems in diverse applications.
 
